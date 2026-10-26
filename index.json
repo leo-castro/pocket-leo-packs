@@ -1,4 +1,12 @@
 {
  "format": 1,
- "packs": []
+ "packs": [
+  {
+   "name": "test_home",
+   "version": 1,
+   "file": "test_home.stored",
+   "bytes": 2380207,
+   "crc32": 2823383892
+  }
+ ]
 }
