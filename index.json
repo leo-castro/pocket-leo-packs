@@ -3,10 +3,10 @@
  "packs": [
   {
    "name": "test_home",
-   "version": 1,
+   "version": 2,
    "file": "test_home.stored",
-   "bytes": 2380207,
-   "crc32": 2823383892
+   "bytes": 2380208,
+   "crc32": 1109095874
   }
  ]
 }
