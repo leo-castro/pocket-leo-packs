@@ -40,18 +40,18 @@
   },
   {
    "name": "test_home",
-   "version": 1,
+   "version": 2,
    "file": "test_home.stored",
-   "bytes": 2380207,
-   "crc32": 2823383892,
+   "bytes": 2381321,
+   "crc32": 2287791318,
    "when": [
     {
      "once": [
       2026,
-      10,
-      28
+      11,
+      6
      ],
-     "days": 1
+     "days": 2
     }
    ]
   }
