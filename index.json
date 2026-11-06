@@ -1,12 +1,59 @@
 {
- "format": 1,
+ "format": 2,
  "packs": [
+  {
+   "name": "birthday",
+   "version": 1,
+   "file": "birthday.stored",
+   "bytes": 2395142,
+   "crc32": 283383916,
+   "when": [
+    {
+     "yearly": [
+      10,
+      2
+     ],
+     "days": 1
+    },
+    {
+     "yearly": [
+      10,
+      19
+     ],
+     "days": 1
+    },
+    {
+     "yearly": [
+      12,
+      2
+     ],
+     "days": 1
+    },
+    {
+     "yearly": [
+      5,
+      12
+     ],
+     "days": 1
+    }
+   ]
+  },
   {
    "name": "test_home",
    "version": 1,
    "file": "test_home.stored",
    "bytes": 2380207,
-   "crc32": 2823383892
+   "crc32": 2823383892,
+   "when": [
+    {
+     "once": [
+      2026,
+      10,
+      28
+     ],
+     "days": 1
+    }
+   ]
   }
  ]
 }
