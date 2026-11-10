@@ -55,6 +55,40 @@
    ]
   },
   {
+   "name": "fathersday",
+   "version": 1,
+   "file": "fathersday.stored",
+   "bytes": 2393736,
+   "crc32": 3497118065,
+   "when": [
+    {
+     "nth": [
+      6,
+      "sun",
+      3
+     ],
+     "days": 1
+    }
+   ]
+  },
+  {
+   "name": "mothersday",
+   "version": 1,
+   "file": "mothersday.stored",
+   "bytes": 2393728,
+   "crc32": 537873055,
+   "when": [
+    {
+     "nth": [
+      5,
+      "sun",
+      2
+     ],
+     "days": 1
+    }
+   ]
+  },
+  {
    "name": "newyear",
    "version": 1,
    "file": "newyear.stored",
